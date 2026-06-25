@@ -1,0 +1,87 @@
+# BabynodShop — Generative Engine Optimization Map
+
+> An online store focused on selling baby products and items for infants. The business targets parents and caregivers looking to purchase products for their babies. The store likely carries a range of baby-related goods such as clothing, accessories, feeding supplies, toys, or nursery items.
+
+---
+
+## Pages
+
+### בית
+https://babynodshop-e85a63dc.zappy5.app
+חנות אונליין למוצרי תינוקות אורגניים וידידותיים לסביבה. מבחר ענק של מתנות לתינוק לידה, ביגוד, צעצועים וציוד הכרחי. היכנסו עכשיו לגלות את הקסם לתינוק שלכם!
+
+### אודות
+https://babynodshop-e85a63dc.zappy5.app/about
+הכירו את החזון של BabynodShop – אספקת מוצרי תינוקות אורגניים אונליין להורים מודעים. למה בחרנו בציוד ידידותי לסביבה? קראו עוד על המסע שלנו אל עולם נקי יותר לתינוקות.
+
+### גלריה
+https://babynodshop-e85a63dc.zappy5.app/gallery
+גלריה מעוררת השראה של מוצרי תינוקות אורגניים אונליין: ערכות לידה, בגדי כותנה, צעצועי עץ ועוד. כל תמונה מספרת סיפור של איכות ואהבה. בואו לבחור את המושלם!
+
+### צור קשר
+https://babynodshop-e85a63dc.zappy5.app/contact
+יש שאלה על ציוד תינוקות ידידותי לסביבה או מתנות לתינוק לידה? צרו קשר עם צוות BabynodShop עוד היום. אנחנו כאן כדי לעזור לכם לבחור את הטוב ביותר לתינוק, בקלות ובאהבה!
+
+### Products
+https://babynodshop-e85a63dc.zappy5.app/products
+המוצרים שלנו - BabynodShop
+
+### Product Detail
+https://babynodshop-e85a63dc.zappy5.app/product/:slug
+פרטי המוצר - BabynodShop
+
+### Category
+https://babynodshop-e85a63dc.zappy5.app/category/:slug
+מוצרים - BabynodShop
+
+### תודה רבה | BabynodShop
+https://babynodshop-e85a63dc.zappy5.app/thank-you
+תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה וצוות BabynodShop יחזור אליך בהקדם. המומחים שלך עבור מוצרי תינוקות אורגניים אונליין ומתנות לתינוק לידה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://babynodshop-e85a63dc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://babynodshop-e85a63dc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://babynodshop-e85a63dc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BabynodShop
+An online store focused on selling baby products and items for infants. The business targets parents and caregivers looking to purchase products for their babies. The store likely carries a range of baby-related goods such as clothing, accessories, feeding supplies, toys, or nursery items.
+
+## Target Audience
+- הורים לתינוקות
+- הורים חדשים
+- הורים ידידותיים לסביבה
+- הורים עובדים
+- סבא וסבתא קונים מתנות
+- הורים עירוניים
+
+## Industry
+Baby Products E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://babynodshop-e85a63dc.zappy5.app/sitemap.xml
+- Robots: https://babynodshop-e85a63dc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://babynodshop-e85a63dc.zappy5.app/llms-full.txt
+- Products (JSON): https://babynodshop-e85a63dc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://babynodshop-e85a63dc.zappy5.app/product-feed.xml
